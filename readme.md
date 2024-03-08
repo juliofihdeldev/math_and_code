@@ -1,0 +1,1 @@
+We study trigonometry by implementing an interactive tool in JavaScript. We learn several trigonometrical functions like the sine, cosine and tangent (sin, cos, tan) and their inverse functions: the arcsine, arccosine and arctangent (asin, acos, atan). We define these functions using a right angle triangle at first and then extend the definitions using the unit circle.
